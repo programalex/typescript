@@ -24,3 +24,4 @@ public getmodelo() {
     var cocheconstructor = new Constructor("modelo del auto con parametro asignado");
     cocheconstructor.getmodelo();
     console.log("el modelo del carro es :" + cocheconstructor.getmodelo());
+   
